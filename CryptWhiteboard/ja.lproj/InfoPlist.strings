@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  CryptWhiteboard
+
+  Created by rei8 on 2020/05/08.
+  Copyright © 2020 lithium03. All rights reserved.
+*/
+NSPhotoLibraryAddUsageDescription = "ホワイトボードの画像を保存します";

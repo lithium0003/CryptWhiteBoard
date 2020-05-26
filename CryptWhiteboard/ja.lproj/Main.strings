@@ -1,0 +1,127 @@
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "2Y9-pp-O5V"; */
+"2Y9-pp-O5V.normalTitle" = "完了";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "488-Cv-6d1"; */
+"488-Cv-6d1.title" = "共有";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "4pt-Rg-r5X"; */
+"4pt-Rg-r5X.normalTitle" = "透過色";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "512-mo-k6y"; */
+"512-mo-k6y.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "Fixed Color"; ObjectID = "6yO-UZ-qPb"; */
+"6yO-UZ-qPb.text" = "システム定義色";
+
+/* Class = "UITextField"; placeholder = "Local display name"; ObjectID = "Afx-Vf-4H5"; */
+"Afx-Vf-4H5.placeholder" = "ローカル表示名";
+"CAu-ry-CvN.placeholder" = "ローカル表示名";
+
+/* Class = "UITabBarItem"; title = "Attach"; ObjectID = "Byo-c2-HxU"; */
+"Byo-c2-HxU.title" = "接続";
+
+/* Class = "UITextField"; placeholder = "Unique board id globally"; ObjectID = "Dg0-xb-daU"; */
+"Dg0-xb-daU.placeholder" = "一意な識別ID";
+
+/* Class = "UILabel"; text = "Attach board"; ObjectID = "ESn-Gv-WJv"; */
+"ESn-Gv-WJv.text" = "既存のボードに参加";
+
+/* Class = "UITextField"; placeholder = "Enter again"; ObjectID = "HPi-dm-cuo"; */
+"HPi-dm-cuo.placeholder" = "もう一度入力";
+
+/* Class = "UIButton"; normalTitle = "Share board ID"; ObjectID = "Ia5-ls-Buz"; */
+"Ia5-ls-Buz.normalTitle" = "ボードIDを共有する";
+
+/* Class = "UILabel"; text = "Board ID"; ObjectID = "Lfq-3E-LsW"; */
+"Lfq-3E-LsW.text" = "ボード識別ID";
+
+/* Class = "UILabel"; text = "Display name"; ObjectID = "M0P-Ve-EBO"; */
+"M0P-Ve-EBO.text" = "表示名";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "M5v-7s-4XX"; */
+"M5v-7s-4XX.title" = "Item";
+
+/* Class = "UILabel"; text = "BoardID"; ObjectID = "MHB-MN-rYg"; */
+"MHB-MN-rYg.text" = "ボード識別ID";
+
+/* Class = "UITextField"; placeholder = "access key"; ObjectID = "NiQ-tU-avX"; */
+"NiQ-tU-avX.placeholder" = "アクセスに必要";
+
+/* Class = "UILabel"; text = "Confirm"; ObjectID = "OsQ-L6-NiO"; */
+"OsQ-L6-NiO.text" = "確認入力";
+
+/* Class = "UILabel"; text = "Use pen shading"; ObjectID = "QEZ-wK-Oor"; */
+"QEZ-wK-Oor.text" = "ペンの角度で変化させる";
+
+/* Class = "UILabel"; text = "Pen size"; ObjectID = "RAs-we-xiv"; */
+"RAs-we-xiv.text" = "ペンの太さ";
+
+/* Class = "UILabel"; text = "6.0"; ObjectID = "T85-i6-7gL"; */
+"T85-i6-7gL.text" = "6.0";
+
+/* Class = "UILabel"; text = "Create new board"; ObjectID = "UdN-IO-PRF"; */
+"UdN-IO-PRF.text" = "ボード新規作成";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Up1-3F-508"; */
+"Up1-3F-508.text" = "パスワード";
+
+/* Class = "UIButton"; normalTitle = "Black"; ObjectID = "W6f-EA-mng"; */
+"W6f-EA-mng.normalTitle" = "黒色";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ZC5-rK-7PC"; */
+"ZC5-rK-7PC.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Redo"; ObjectID = "Ztg-gN-Nqb"; */
+"Ztg-gN-Nqb.title" = "Redo";
+
+/* Class = "UIButton"; normalTitle = "Save board image"; ObjectID = "d95-bS-w26"; */
+"d95-bS-w26.normalTitle" = "ホワイトボード画像の保存";
+
+/* Class = "UITabBarItem"; title = "Create new"; ObjectID = "fbY-ju-41D"; */
+"fbY-ju-41D.title" = "新規作成";
+
+/* Class = "UIBarButtonItem"; title = "Undo"; ObjectID = "fgE-J6-18C"; */
+"fgE-J6-18C.title" = "Undo";
+
+/* Class = "UILabel"; text = "Alpha"; ObjectID = "gKn-js-xOd"; */
+"gKn-js-xOd.text" = "不透明度";
+
+/* Class = "UILabel"; text = "Threshold for selection"; ObjectID = "hA3-Az-5YB"; */
+"hA3-Az-5YB.text" = "領域選択の閾値";
+
+/* Class = "UILabel"; text = "Board infomation"; ObjectID = "hLX-TW-1DD"; */
+"hLX-TW-1DD.text" = "ホワイトボード情報";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jKG-bD-9k8"; */
+"jKG-bD-9k8.text" = "Label";
+
+/* Class = "UILabel"; text = "Apply pencil force"; ObjectID = "kn3-g1-qTh"; */
+"kn3-g1-qTh.text" = "筆圧感知を有効にする";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "msi-Lk-GCY"; */
+"msi-Lk-GCY.text" = "パスワード";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "p7t-d6-nIa"; */
+"p7t-d6-nIa.title" = "Item";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "pKR-xv-Zad"; */
+"pKR-xv-Zad.text" = "1.0";
+
+/* Class = "UILabel"; text = "Board id"; ObjectID = "pqp-1P-BUf"; */
+"pqp-1P-BUf.text" = "ボード識別ID";
+
+/* Class = "UITextField"; placeholder = "access key"; ObjectID = "pvV-7x-Ho3"; */
+"pvV-7x-Ho3.placeholder" = "アクセスに必要";
+
+/* Class = "UIButton"; normalTitle = "White"; ObjectID = "qRY-yd-0Jd"; */
+"qRY-yd-0Jd.normalTitle" = "白色";
+
+/* Class = "UITextField"; placeholder = "Unique board id globally"; ObjectID = "qeL-zx-37p"; */
+"qeL-zx-37p.placeholder" = "一意な識別ID";
+
+/* Class = "UILabel"; text = "Fill"; ObjectID = "s5v-4J-lyI"; */
+"s5v-4J-lyI.text" = "塗りつぶし";
+
+/* Class = "UILabel"; text = "Display name"; ObjectID = "xSN-22-5Fs"; */
+"xSN-22-5Fs.text" = "表示名";

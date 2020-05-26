@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19E287" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BoardList" representedClassName="BoardList" syncable="YES" codeGenerationType="class">
+        <attribute name="board" optional="YES" attributeType="String"/>
+        <attribute name="image" optional="YES" attributeType="Binary"/>
+        <attribute name="key" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="scrollx" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="scrolly" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="zoomscale" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="CaptureData" representedClassName="CaptureData" syncable="YES" codeGenerationType="class">
+        <attribute name="board" optional="YES" attributeType="String"/>
+        <attribute name="image" optional="YES" attributeType="Binary"/>
+        <attribute name="key" optional="YES" attributeType="String"/>
+        <attribute name="time" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <entity name="CloneData" representedClassName="CloneData" syncable="YES" codeGenerationType="class">
+        <attribute name="active" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="board" optional="YES" attributeType="String"/>
+        <attribute name="cmd" optional="YES" attributeType="String"/>
+        <attribute name="editor" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="stroke" optional="YES" attributeType="String"/>
+        <attribute name="time" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <elements>
+        <element name="BoardList" positionX="-63" positionY="-18" width="128" height="148"/>
+        <element name="CaptureData" positionX="-63" positionY="63" width="128" height="103"/>
+        <element name="CloneData" positionX="-63" positionY="36" width="128" height="148"/>
+    </elements>
+</model>

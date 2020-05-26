@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  CryptWhiteboard
+
+  Created by rei8 on 2020/05/08.
+  Copyright © 2020 lithium03. All rights reserved.
+*/
+"Create new" = "新規作成";
+"Attach" = "接続";
+"Enter boardID" = "ボードIDを入力してください";
+"Board ID is empty." = "ボード識別IDが空です。";
+"Enter name" = "名前を入れてください";
+"Display name is empty." = "表示名が空です。";
+"Password mismatch" = "パスワードが一致しません";
+"Enter same password in two field." = "2つの欄に同じパスワードを入力してください。";
+"Error" = "エラー";
+"Internal error occured. Failed to access database. Check connection and iCloud login." = "内部エラー。データベースにアクセスできません。接続状態とiCloudにログインしていることを確認してください";
+"Failed to add" = "追加に失敗";
+"Check board ID and password." = "ボード識別IDとパスワードが正しいか確認してください";
+
+"Board select" = "ホワイトボードの選択";
+"Detach from board" = "ホワイトボードからの離脱";
+"Detach from %d board(s)." = "%d個のボードから離脱します。";
+"Detach" = "離脱する";
+"Cancel" = "キャンセル";
+"Destroy board" = "ホワイトボードの完全削除";
+"Destory %d board(s). This operation remove board(s) completely from all users." = "%d個のボードを完全に削除します。この操作は、全てのユーザーに対して、これらのボードを完全に抹消します。";
+"Destory completely" = "完全に消滅させる";
+"Failed to connect" = "接続失敗";
+"Failed to connect database." = "データベースにアクセスできません。";
+"Board deleted" = "削除済みボード";
+"This board has beed deleted by other user." = "このホワイトボードは、他のユーザーにより削除されました。";
+
+"Failed to connect database. Storkes may be lost." = "データベースに接続できません。追加した描画は失われるかもしれません。";
+"Please update" = "アップデートがあります";
+"Undefined command detected. Please update app." = "未定義の描画データが検出されました。アプリのアップデートが必要です。";
+
+"Clear all" = "全削除";
+"Clear all stroke data?" = "全ての描画を消しますか?";
+"Delete" = "削除";
+
+"Modify selection" = "選択の編集";
+"Clear inside" = "内側を消す";
+"Draw border" = "輪郭を描く";
+"Fill" = "塗りつぶす";
+"Clear and fill" = "消して塗る";
+"Copy" = "コピー";
+"Export" = "エクスポート";
+"Object selection" = "オブジェクト選択";
+"Add selection" = "選択範囲を追加";
+"Exclude selection" = "選択除外を追加";
+"Cancel selection" = "選択を取り消し";
+"Finish modify" = "選択修正を終了";
+
+"Online help URL" = "https://lithium03.info/ios/cwBoard.ja.html";
+"Privacy policy URL" = "https://lithium03.info/ios/cwBoard/privacy.html#ja";
+
+"Cache Control" = "キャッシュ制御";
+"Apple Pencil Double-tap action" = "Apple Pencilダブルタップ動作";
+"Help" = "ヘルプ";
+"Clear image cache" = "画像キャッシュを破棄する";
+"Version" = "バージョン";
+"Online help" = "オンラインヘルプ";
+"Privacy policy" = "プライバシーポリシー";
+"Settings" = "設定";
+"Clear cache" = "キャッシュの消去";
+"Clear internal image cache?" = "画像の内部キャッシュを消去しますか?";
+"Clear" = "消去";
+"None" = "なし";
+"Undo" = "Undo";
+"Eraser" = "消しゴム";
+"Disable finger tap" = "指タップ禁止";
+
+"Draw mode" = "描画モード";
+"Move mode" = "移動モード";
+"Color picker mode" = "カラーピッカー";
+"Selection mode" = "選択モード";
+"Object select mode" = "オブジェクト選択";
+"Text mode" = "文字入力モード";
+"Paste mode" = "貼り付けモード";
+"Delete mode" = "削除モード";
+"(Tap select type)" = "(選択方法のいずれかをタップ)";
+"Free draw select" = "フリーハンド選択";
+"Rect select" = "矩形選択";
+"Polyline select" = "折れ線選択";
+"Spline curve select" = "スプライン選択";
+"Circle select" = "円選択";
+"Ellipse select" = "楕円選択";
+"(Tap deleter)" = "(削除方法を\nタップ)";
+"Delete pen" = "消しゴムペン";
+"Object deleter" = "オブジェクト\n消しゴム";
+
+"Apply current" = "塗り替え";
+"Rotate" = "回転";
+"Clear objects" = "削除";
